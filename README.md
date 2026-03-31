@@ -1,6 +1,6 @@
 # KLYX - Política de Privacidad
 
-Este repositorio contiene la política de privacidad oficial del proyecto KLIX.
+Este repositorio contiene la política de privacidad oficial del proyecto KLYX.
 
 ## 🌐 Publicación
 
